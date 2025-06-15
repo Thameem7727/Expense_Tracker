@@ -32,4 +32,3 @@ This is a simple Python command-line application that helps you keep track of yo
 
 ---
 
-## 📌 Sample Output
